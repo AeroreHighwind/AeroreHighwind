@@ -4,7 +4,7 @@
 I have been learning to code since 2019, from C# in Unity Engine to Typescript in Angular, where i remain developing my skills. I'm also interested in back-end development and i see it as a way to remain independent on individual projects,so i started to learn NestJS. Dot NET picked my interest too, so why don't give it a shot?
 
 * 🌍  I'm based in Córdoba, Argentina
-* 🖥️  See my portfolio at [AeroreHighwind.github.io](http://aerorehighwind.github.io/)
+* 🖥️  See my portfolio at [AeroreHighwind.github.io](http://aerorehighwind.github.io/) (its really old!)
 * 🧠  I'm learning NestJS, dotNET, PostgreSQL
 * ⚡  Debian is my daily driver, but i dont do any crazy stuff with the terminal nor bash scripting lol
 
