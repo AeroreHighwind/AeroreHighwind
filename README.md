@@ -24,12 +24,12 @@ I have been learning to code since 2019, from C# in Unity Engine to Typescript i
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/AeroreHighwind"><img src="https://github-readme-stats.vercel.app/api?username=AeroreHighwind&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AeroreHighwind's GitHub stats" /></a>
+<a href="http://www.github.com/AeroreHighwind"><img src="https://github-stats-aeroreh.vercel.app/api?username=AeroreHighwind&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AeroreHighwind's GitHub stats" /></a>
 
 <a href="http://www.github.com/AeroreHighwind"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AeroreHighwind&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/AeroreHighwind" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AeroreHighwind&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/AeroreHighwind" align="left"><img src="https://github-stats-aeroreh.vercel.app/api/top-langs/?username=AeroreHighwind&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/AeroreHighwind/CrimsonPosts" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AeroreHighwind&repo=CrimsonPosts&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/AeroreHighwind/CrimsonPosts" align="left"><img align="left" width="45%" src="https://github-stats-aeroreh.vercel.app/api/pin/?username=AeroreHighwind&repo=CrimsonPosts&title_color=14b8a6&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
